@@ -4,7 +4,7 @@
       "/home/kah/github/my_cookbook/projeto1/app/controllers/recipes_controller.rb": [
         1,
         1,
-        5,
+        7,
         null,
         null,
         1,
@@ -23,9 +23,15 @@
         null,
         null,
         1,
-        5,
+        6,
         null,
         null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
         1,
         1,
         null,
@@ -57,6 +63,6 @@
         null
       ]
     },
-    "timestamp": 1568031851
+    "timestamp": 1568032951
   }
 }
