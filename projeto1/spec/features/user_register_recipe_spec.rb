@@ -12,7 +12,7 @@ feature 'user register a recipe' do
 
         click_on "Enviar"
 
-        expect(page).to have_content("My CookBook")
+        
         expect(page).to have_content("Receita cadastrada com sucesso!")
         expect(page).to have_content("Bolo")
         expect(page).to have_content("30")
